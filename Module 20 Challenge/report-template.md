@@ -49,7 +49,7 @@ Summarize the results of the machine learning models, and include a recommendati
 
 If you do not recommend any of the models, please justify your reasoning.
 
-Both models have exhibited commendable overall accuracy, but Model 2, trained on oversampled data, particularly stands out due to its improved recall for the high-risk class in comparison to Model 1. The critical decision between the two models largely depends on specific objectives. If the primary goal is the precise identification of high-risk loans, the superior recall of Model 2 for the high-risk class makes it a more attractive option.
+The two models have exhibited commendable overall accuracy, but Model 2, trained on oversampled data, particularly stands out due to its improved recall for the high-risk class in comparison to Model 1. The critical decision between the two models largely depends on specific objectives. If the primary goal is the precise identification of high-risk loans, the superior recall of Model 2 for the high-risk class makes it a more attractive option.
 
 When making this decision, careful consideration of business implications becomes pivotal. Is the priority to accurately pinpoint high-risk loans, even if it results in more false positives? Alternatively, does achieving a balanced performance take precedence? The decision-making process should involve a nuanced assessment of precision and recall, aligning with the unique business context and priorities.
 
